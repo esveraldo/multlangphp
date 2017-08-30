@@ -1,0 +1,26 @@
+AS TABELAS ABAIXO SÃO DE EXEMPLO
+
+tabela categorias:
+
+Essa tabela vai carregar a chave para os arquivos .ini
+
+Ex.:
+
+id, categoria
+
+1 - CATEGORIA_PHOTO
+2 - CATEGORIA_CLOTHES
+
+
+tabela categorias_lang:
+
+Essa tabela vai trazer a linguagem a chave e o valor para os arquivos .ini
+
+id, lang, chave, valor
+
+1 - en - CATEGORIA_PHOTO - Photos
+2 - pt-br - CATEGORIA_PHOTO - Fotos
+3 - en - CATEGORIA_CLOTHES - Clothes
+4 - pt-br - CATEGORIA_CLOTHES - Roupas
+
+
